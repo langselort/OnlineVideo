@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="xuexi"
+  id="myeclipse.1393048304625"
+  context-root="/xuexi"
+  j2ee-spec="5.0"
+  archive="xuexi.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

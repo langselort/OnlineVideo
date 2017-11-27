@@ -1,0 +1,58 @@
+* {  margin:0px; padding:0px; color:Black}
+ul{ padding:0px; margin:0px; list-style:none; overflow:hidden}
+a{ color:Black; text-decoration:none}
+td{ vertical-align:top}
+
+#topdiv{ width:1024px; height:180px; margin:0px auto; position:relative; background:url(../images/top.jpg); text-align:center; }
+#topdiv b{ padding-top:30px; display:block; font-size:40px; font-weight:bold; font-family:华文琥珀; color:Black;}
+#gg{ width:1024px; height:30px; margin:0px auto}
+#main,#btm_img,#foot{ width:1024px; margin:0px auto; font-size:12px;}
+#foot{ text-align:center; line-height:30px}
+#foot hr{ border:solid 1px #0000ff}
+
+#menuul{  position:absolute; top:120px; left:0px}
+#menuul li{ float:left; font-size:18px; font-family:宋体; width:100px; text-align:center}
+#menuul li a{ color:Blue; text-decoration:none}
+#menuul li a:hover{ color:Blue}
+#btm_img td{ font-size:12px}
+#downlistul li{ float:left; width:100px; margin:10px; text-align:center; line-height:22px; border:solid 1px #0000ff}
+
+#rightdiv{ width:644px; border:solid 2px #0000ff; overflow:hidden}
+
+#downlist{ width:740px; list-style:none; padding:0px; margin:0px auto}
+#downlist li{ width:200px; text-align:center; padding:10px; margin:12px; float:left; border:solid 1px gainsboro; background:aliceblue}
+
+/*左侧*/
+.left_top{ width:336px; height:63px; background:aliceblue}
+.left_top b{ display:block; padding-top:30px; padding-left:10px}
+.left_text{ width:336px; background:aliceblue; text-align:left}
+.left_text div{ width:316px; padding:10px;}
+.left_btm{ width:336px; height:21px; background:aliceblue}
+
+#logintable{ width:300px; padding:0px 18px; font-size:12px}
+.login_left{ width:100px; text-align:center; height:30px}
+.login_right{ width:200px; text-align:left}
+.login_center{ text-align:center; height:30px}
+.login_center a{ margin:5px 10px}
+#logintable input{ border:solid 1px #0000ff; color:#0000ff}
+
+.left_newsul{ margin-left:10px; }
+.left_newsul li{ background:aliceblue; margin-bottom:15px; background-repeat:no-repeat; padding-left:10px; border-bottom:dashed 1px #0000ff}
+
+.main_imgnews{ margin-left:10px; margin-top:10px; width:260px; font-size:12px}
+.main_imgnews li{ background:aliceblue; margin-bottom:15px; background-repeat:no-repeat; padding-left:10px; border-bottom:dashed 1px #0000ff}
+
+.main_newsul{ width:650px; margin:10px auto; margin-left:10px}
+.main_newsul li{ background:aliceblue; margin-bottom:15px; background-repeat:no-repeat; padding-left:10px; border-bottom:dashed 1px #0000ff; width:300px; float:left}
+
+#main_newsul{ width:650px; margin:10px auto; margin-left:10px}
+#main_newsul li{ background:aliceblue; margin-bottom:15px; background-repeat:no-repeat; padding-left:10px; border-bottom:dashed 1px #0000ff; position:relative;}
+#main_newsul li span{position:absolute; right:40px; color:blue;}
+
+
+/*添加样式*/
+#addtable { width:90%; margin:10px auto; border:solid 1px #F5B7CE; border-collapse:collapse;}
+#addtable td {font-size: 12px; height:30px; border:solid 1px #F5B7CE; border-collapse:collapse;}
+.left{ background:#ffffff; width:100px;text-align:center; vertical-align:middle}
+.right{ text-align:left }
+.right input,.right select,.right textarea{ margin:10px}
